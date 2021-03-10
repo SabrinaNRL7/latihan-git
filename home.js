@@ -7,3 +7,6 @@ console.log("Baris Ketiga");
 
 //Jumat
 console.log("Baris Keempat");
+
+//Minggu
+console.log("Tambah baris kelima dari online");
