@@ -5,3 +5,8 @@ console.log("Baris Pertama");
 console.log("Baris Kedua");
 console.log("Baris Ketiga");
 
+//Jumat
+console.log("Baris Keempat");
+
+//Minggu
+console.log("Baris Kelima");
