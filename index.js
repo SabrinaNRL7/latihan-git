@@ -10,3 +10,6 @@ console.log("Baris Ketiga");
 console.log("Baris Keempat");
 
 //tanda titik di command git berarti untuk menambahkan semua file
+
+//Jumat
+console.log("Baris Ketujuh");
